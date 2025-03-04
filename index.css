@@ -1,0 +1,146 @@
+
+
+nav {
+	background-color: #765C3D;
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+
+#landing {
+	
+	background: 
+		linear-gradient(
+
+			rgba(0, 0, 0, 0.59),
+	 		rgba(0, 0, 0, 0.59)
+			),
+			
+		url("./images/logo2.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+
+}
+
+#title {
+		
+		.inconsolata-<uniquifier> {
+		  font-family: "Inconsolata", serif;
+		  font-optical-sizing: auto;
+		  font-weight: <weight>;
+		  font-style: normal;
+		  font-variation-settings:
+		    "wdth" 100;
+		}
+		text-align: center;
+		text-underline-position: from-font;
+		text-decoration-skip-ink: none;
+		color: whitesmoke;
+
+}
+
+
+
+p {
+	.inconsolata-<uniquifier> {
+	  font-family: "Inconsolata", serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+
+	color: whitesmoke;
+}
+
+
+}
+
+#about {
+	background-color: white;
+}
+
+#text-title {
+	.inconsolata-<uniquifier> {
+	  font-family: "Inconsolata", serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+	text-align: center;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: #765C3D;
+}
+
+#about p {
+		.inconsolata-<uniquifier> {
+	  font-family: "Inconsolata", serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+	text-align: start;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: #765C3D;
+;
+
+}
+
+#gallery {
+		.inconsolata-<uniquifier> {
+	  font-family: "Inconsolata", serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: #765C3D;
+;
+}
+
+#gallery p {
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 29.26px;
+	text-align: left;
+	text-underline-position: from-font;
+	text-decoration-skip-ink: none;
+	color: #765C3D;
+;
+}
+
+#contact-image {
+	
+	background: 
+
+		linear-gradient(
+			rgba(0, 0, 0, 0.59),
+			rgba(0, 0, 0, 0.59)
+		),
+		url("./images/contact1.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+
+}
+
+#footer {
+	background-color: #B59066;
+}
