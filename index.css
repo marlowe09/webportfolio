@@ -100,7 +100,7 @@ p {
 
 }
 
-#gallery {
+#projects {
 		.inconsolata-<uniquifier> {
 	  font-family: "Inconsolata", serif;
 	  font-optical-sizing: auto;
@@ -115,7 +115,7 @@ p {
 ;
 }
 
-#gallery p {
+#projects p {
 	font-family: Montserrat;
 	font-size: 24px;
 	font-weight: 400;
