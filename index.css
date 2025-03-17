@@ -23,6 +23,7 @@ nav {
 		url("./images/logo2.png");
 		background-repeat: no-repeat;
 		background-size: cover;
+		style = max width;
 
 }
 
@@ -66,6 +67,7 @@ p {
 
 #about {
 	background-color: white;
+
 }
 
 #text-title {
